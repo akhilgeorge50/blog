@@ -836,6 +836,18 @@ footer .navigation ul li a {
     width: 150px;
     margin-top: 50px;
   }
+  .cgrid img{
+
+    margin-top: 0px;
+
+  }
+  .cgrid {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
   
   .glow-on-hover {
     margin: 5px;
@@ -844,9 +856,14 @@ footer .navigation ul li a {
     width:66%;
     margin:auto;
   }
-  
+  .container h2{
+    padding-top: 20px;
+  }
 
-  
+  .skills{
+    width:70%;
+    margin: auto;
+  }
   .container1 {
     display: block;
   }
